@@ -24,6 +24,7 @@ Features are included:
   The project took 5 monthes and i have built it from scratch. The app development stack: Reactjs, Nodejs, Expressjs, Firebase and Bootstrap.
 
 The project [preview](https://carpetking.alisher778.now.sh)
+
 **Login:** admin@example.com
 **Password:** password
 
@@ -50,5 +51,6 @@ Features are included:
   The app development stack: Reactjs, Nodejs, Expressjs, Firebase and Bootstrap.
 
 The project [preview](https://technocity.alisher778.now.sh)
+
 **Login:** admin@example.com
 **Password:** password
