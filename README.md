@@ -5,11 +5,17 @@ Here are some commercial projects I have been working on recently. Since these a
   ##### 1. [CarpetKing](https://carpetking.uz)   
   **Date:** 03/2019 - 07/2019
   
-This is a CRM application for store owners who are specialized for selling carpets. 
-| Title | Content |
-| ----- | ----- |
-| The problem to solve | The client does not have any system to keep track of his profit, expenses, and remaing items in the store. |
-| The expected result | The client have data/analytics about his daily, weekly, monthly, quaterly and yearly sales, expenses, profits and number of products sold and reaming in the store. |
+  This is a CRM application for store owners who are specialized for selling carpets.
+<table>
+  <tr>
+    <th>The problem to solve</th>
+    <td>The client does not have any system to keep track of his profit, expenses, and remaing items in the store.</td>
+  </tr>
+  <tr>
+    <th>The expected result</th>
+    <td>The client have data/analytics about his daily, weekly, monthly, quaterly and yearly sales, expenses, profits and number of products sold and reaming in the store.</td>
+  </tr>
+</table>
 
 Features are included:
   - Sign up/in for owner, seller, manager.
@@ -34,10 +40,16 @@ The project [Demo preview](https://carpetking.alisher778.now.sh)
   **Date:** 06/2019 - 07/2019
   
 This is a client register and payments history app for a store owner who are specialized for leasing products. 
-| Title | Content |
-| ----- | ----- |
-| The problem to solve | The client has over 500 customers and the customers need to pay monthly bills. The client still uses MS Excel to manage his customers and calls everyday to remind their payments |
-| The expected result | The applications sends daily SMS messages to remind their upcoming payment dates and payment confirmations. The client knows which customer must to make a payment today and knows how much/when the customer have paid. |
+<table>
+  <tr>
+    <th>The problem to solve</th>
+    <td>The client has over 500 customers and the customers need to pay monthly bills. The client still uses MS Excel to manage his customers and calls everyday to remind their payments </td>
+  </tr>
+  <tr>
+    <th>The expected result</th>
+    <td> The applications sends daily SMS messages to remind their upcoming payment dates and payment confirmations. The client knows which customer must to make a payment today and knows how much/when the customer have paid.</td>
+  </tr>
+</table>
 
 Features are included:
   - Sign up/in for owner.
