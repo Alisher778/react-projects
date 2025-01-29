@@ -2,7 +2,7 @@
 
 Here are some commercial projects I have been working on recently. Since these are client projects I have been keeping theme in private repositories.
 
-  ##### 1. [CarpetKing](https://carpetking.uz)   
+  ##### 1. [CarpetKing](https://carpetking.alisher778.vercel.app/)
   **Date:** 03/2019 - 07/2019
   
   This is a CRM application for store owners who are specialized for selling carpets.
